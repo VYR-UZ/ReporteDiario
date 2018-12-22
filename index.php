@@ -1,4 +1,3 @@
-<!doctype html>
 <?php
   include 'Classes/PHPExcel.php';
   include 'Classes/PHPExcel/IOFactory.php';
